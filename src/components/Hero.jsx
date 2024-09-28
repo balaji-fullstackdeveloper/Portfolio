@@ -2,7 +2,7 @@ import React from "react";
 import { ButtonPrimary, ButtonOutline } from "./Button";
 import { FaDownload } from "react-icons/fa";
 function Hero() {
-  const PDF_URL = "http://localhost:5173/Balaji_Resume.pdf";
+  const PDF_URL = "https://main--portfolio-balaji-fullstackdeveloper.netlify.app/Balaji_Resume.pdf";
   const downloadFileAtURL = () => {
     console.log("click");
     const filename = PDF_URL.split("/").pop();
