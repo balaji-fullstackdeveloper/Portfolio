@@ -45,9 +45,9 @@ const works = [
     imgSrc: "/images/dashboard.jpg",
     title: "Admin Dashboard",
     tags: ["API", "CRUD", "NODE", "EXPRESS", "REDUX", "REACT", "MONGO-DB"],
-    projectLink: "https://cerulean-squirrel-ea5cb5.netlify.app/",
-    sourceLink: "https://musify-5al0.onrender.com/",
-    demoLink: "https://musify-5al0.onrender.com/",
+    projectLink: "https://admin-dashboard-frontend-3ugd.onrender.com/",
+    sourceLink: "https://github.com/balaji-fullstackdeveloper/Admin-Dashboard",
+    demoLink: "https://github.com/balaji-fullstackdeveloper/Demo-Credentials/blob/main/admin-dashboard.txt",
   },
   {
     imgSrc: "/images/booking.jpg",
