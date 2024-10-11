@@ -60,12 +60,8 @@ const skillItem = [
     imgSrc: "/images/aws.png",
     label: "AWS",
     desc: "Delopment Server",
-  },
-  {
-    imgSrc: "/images/figma.svg",
-    label: "Figma",
-    desc: "Design tool",
-  },
+  }
+
 ];
 
 const Skill = () => {
