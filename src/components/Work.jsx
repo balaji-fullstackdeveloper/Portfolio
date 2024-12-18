@@ -17,7 +17,7 @@ const works = [
       "REACT",
     ],
     projectLink:
-      "https://66f154213e2f92e1e894908a--thunderous-croissant-c12998.netlify.app/",
+      "https://ecommerce-frontend-balaji.netlify.app",
     sourceLink:
       "https://github.com/balaji-fullstackdeveloper/Ecommerce-BackEnd",
     demoLink:
