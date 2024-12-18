@@ -8,6 +8,7 @@ function Hero() {
     const filename = PDF_URL.split("/").pop();
     const aTag = document.createElement("a");
     aTag.href = PDF_URL;
+    aTag.target="_blank";
     aTag.download = filename;
     document.body.appendChild(aTag);
     aTag.click();
