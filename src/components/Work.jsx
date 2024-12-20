@@ -6,10 +6,15 @@ const works = [
     title: "Ecommerce app",
     tags: [
       "E-COMMERCE",
-      "API",
-      "CRUD",
+    
+      "AI CHATBOT",
+"OAUTH",
+      "GOOGLE","GITHUB",
       "SRIPE",
+      "RAZORPAY",
       "ADMIN",
+  
+      "CRUD",
       "NODE",
       "EXPRESS",
       "REDUX",
