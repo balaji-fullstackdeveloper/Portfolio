@@ -15,11 +15,8 @@ const works = [
       "ADMIN",
   
       "CRUD",
-      "NODE",
-      "EXPRESS",
       "REDUX",
-      "MONGO-DB",
-      "REACT",
+      "MERN"
     ],
     projectLink:
       "https://ecommerce-frontend-balaji.netlify.app",
